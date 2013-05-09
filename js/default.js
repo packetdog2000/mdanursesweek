@@ -1,0 +1,1 @@
+forge.logging.info('Hello World, this is JavaScript');

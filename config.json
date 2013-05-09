@@ -1,0 +1,27 @@
+{
+	"name": "nursesweek01",
+	"description": "nurses week app for MD Anderson Nurses",
+	"author": "edwingarcia@gmail.com",
+	"version": "0.1",
+	"platform_version": "v1.4",
+	"modules": {
+		"contact": true,
+		"file": true,
+		"is": true,
+		"logging": {
+			"level": "DEBUG"
+		},
+		"media": {},
+		"prefs": true,
+		"reload": true,
+		"request": {
+			"permissions": [
+				"http://*/*",
+				"https://*/*"
+			]
+		},
+		"tools": true
+	},
+	"plugins": {},
+	"config_version": "2"
+}
